@@ -1,3 +1,12 @@
+"""
+Realizar un Programa que genere contrasenas segura de manera aleatoria deacuerdo a las necesidades del usuario
+
+Programador: Jorge Fallas
+Fecha de creación: 01-02-2023
+Fecha de última modificación: 01-02-2023
+Versión :1.0
+"""
+
 import random
 import string
 
